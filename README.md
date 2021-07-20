@@ -1,2 +1,3 @@
 # GeneralSIC2021
-commit desde web
+Commit desde web
+Commit desde git de escitorio
